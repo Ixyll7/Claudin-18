@@ -1,0 +1,5 @@
+﻿candidate,n_models,mean_pLDDT,median_pLDDT,frac_pLDDT_gt50,frac_pLDDT_gt70,pTM,max_PAE_A,intermodel_CA_RMSD_A
+Ligand 66,5,45.81,38.2,0.25,0.155,0.28,31.03,29.92
+Ligand 477,5,49.49,49.81,0.484,0.016,0.36,29.42,17.04
+Ligand 499,5,45.74,45.16,0.288,0.0,0.41,30.48,21.54
+Ligand 399,5,48.49,50.53,0.519,0.0,0.42,30.67,18.73

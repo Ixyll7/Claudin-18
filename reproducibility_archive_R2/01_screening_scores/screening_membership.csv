@@ -1,0 +1,5 @@
+﻿Candidate,MEGADOCK_score,MEGA_rank_of_500,A_top20pct,docking_gamma,dock_rank_of_500,B_top10pct,cofold_gamma,cofold_rank_of_500,C_top20pct,In_intersection
+Ligand 66,4903.8,64,YES,-3.18624,41,YES,-3.47006,24,YES,YES
+Ligand 477,4811.27,90,YES,-3.42254,10,YES,-3.41289,28,YES,YES
+Ligand 499,4874.42,72,YES,-3.38052,13,YES,-3.6763,6,YES,YES
+Ligand 399,5284.83,13,YES,-3.98169,1,YES,-3.2236,58,YES,YES
